@@ -1,0 +1,1 @@
+This is a repo for a semantic email search project. The goal is to create an NLP=like interface that can return meaningful semantic results that can aid in business planning. It will ingest many years of PST files and enable users to interface through a simple prompt ao ask "what if" questions.
