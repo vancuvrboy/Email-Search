@@ -1,0 +1,21 @@
+# ignore PST test file
+test.pst
+
+# email training data
+/training_set.csv
+/training_set_ws.csv
+/classified_training_set.csv
+
+
+# email test data
+/test_data.csv
+
+# models
+/finalized_model.sav
+/svm_model.pkl
+
+# predictions - output of tests on test data
+/predictions.csv
+
+# vectorizer
+/vectorizer.pkl
